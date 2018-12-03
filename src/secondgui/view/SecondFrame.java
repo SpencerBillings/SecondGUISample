@@ -18,11 +18,12 @@ public class SecondFrame extends JFrame
 		setupFrame();
 	}
 	
+	
 	public void setupFrame()
 	{
 		this.setContentPane(appPanel);
 		this.setSize(800, 800);
-		this.setTitle("Second GUI");
+		this.setTitle("I eat bees");
 		this.setResizable(true);
 		this.setVisible(true);
 	}
